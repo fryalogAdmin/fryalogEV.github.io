@@ -1,0 +1,19 @@
+body {
+  background-color:palegreen}
+h1 {
+  color: midnightblue;
+  font-size: 200%;
+}
+
+<style,>
+a:link, a:visited {
+   background-color: indianred;
+   color: black;
+   border: 2px indianred;
+   padding: 20px 20px;
+   text-align: center;
+   text-decoration: none;
+   display: inline-block;
+ }
+
+
